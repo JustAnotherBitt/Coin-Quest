@@ -90,6 +90,6 @@ Certifique-se de ter o Python 3 instalado em seu sistema.
 
 ## Créditos
 
-Desenvolvido por Letícia De Patta Rodrigues (<a href="https://github.com/JustAnotherBitt">JustAnotherBitt</a>.**)
+Desenvolvido por Letícia De Patta Rodrigues (<a href="https://github.com/JustAnotherBitt">JustAnotherBitt</a>.)
 
 :)
