@@ -9,7 +9,6 @@ A estrutura do projeto é organizada para facilitar o desenvolvimento e a manute
 
 ```
 PROJECT
-├── _pycache_/
 ├── fonts/
 ├── images/
 ├── music/
@@ -19,7 +18,6 @@ PROJECT
 └── levels.py
 ```
 
-- `_pycache_/`: Pasta gerada pelo Python para armazenar arquivos de bytecode compilado.
 - `fonts/`: Contém os arquivos de fontes utilizados no jogo.
 - `images/`: Armazena todos os recursos visuais do jogo, incluindo os sprites animados do herói e dos inimigos.
 - `music/`: Contém a trilhas sonora do jogo.
