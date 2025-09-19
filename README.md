@@ -49,8 +49,8 @@ Certifique-se de ter o Python 3 instalado em seu sistema.
 
 1. **Clone o repositório**:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone https://github.com/JustAnotherBitt/Coin-Quest.git
+   cd Coin-Quest
    ```
 
 2. **Crie e ative um ambiente virtual**:
