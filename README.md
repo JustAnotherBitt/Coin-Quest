@@ -88,6 +88,14 @@ Certifique-se de ter o Python 3 instalado em seu sistema.
 - **Setas do teclado**: Mover o herói e os botões do menu.
 - **Enter**: Selecionar.
 
+### First Look
+
+<img width="545" height="695" alt="image" src="https://github.com/user-attachments/assets/b9c585f2-a95e-4740-9c64-197fe714066c" />
+<img width="547" height="693" alt="image" src="https://github.com/user-attachments/assets/b6eddc9e-c8d6-41a8-a703-2e54f2e0e99a" />
+<img width="543" height="694" alt="image" src="https://github.com/user-attachments/assets/0d627a52-6263-4928-8ae0-b3e638d9d757" />
+
+
+
 ## Créditos
 
 Desenvolvido por Letícia De Patta Rodrigues (<a href="https://github.com/JustAnotherBitt">JustAnotherBitt</a>).
