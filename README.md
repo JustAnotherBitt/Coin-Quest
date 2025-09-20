@@ -90,9 +90,9 @@ Certifique-se de ter o Python 3 instalado em seu sistema.
 
 ### First Look
 
-<img width="339" height="489" alt="image" src="https://github.com/user-attachments/assets/69507afd-35c3-4619-89bb-edf71b576517" />
-<img width="347" height="493" alt="image" src="https://github.com/user-attachments/assets/b6eddc9e-c8d6-41a8-a703-2e54f2e0e99a" />
-<img width="343" height="494" alt="image" src="https://github.com/user-attachments/assets/0d627a52-6263-4928-8ae0-b3e638d9d757" />
+<img width="340" height="485" alt="image" src="https://github.com/user-attachments/assets/69507afd-35c3-4619-89bb-edf71b576517" />
+<img width="340" height="485" alt="image" src="https://github.com/user-attachments/assets/b6eddc9e-c8d6-41a8-a703-2e54f2e0e99a" />
+<img width="340" height="485" alt="image" src="https://github.com/user-attachments/assets/0d627a52-6263-4928-8ae0-b3e638d9d757" />
 
 
 
